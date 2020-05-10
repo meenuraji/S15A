@@ -2,8 +2,14 @@
 
 
 Data set of 100 backgroung images of streets and roads
+
 https://drive.google.com/open?id=1r6nffKopmf7CpLJUCiQG4jMNDxryQ17i
-Background images were downloaded and resized to 224* 224 uing GIMP Image
+
+Background images were downloaded and resized to 224* 224 uing GIMP 
+
+Image
+
+!Image(
 
 Data set of 100 foreground images of cars
 https://drive.google.com/open?id=1n82xIWQGfcnz4DnYbkIjgwbW4l_kbL1x
