@@ -1,6 +1,5 @@
 # S15A
 
-
 Data set of 100 backgroung images of streets and roads
 
 https://drive.google.com/open?id=1r6nffKopmf7CpLJUCiQG4jMNDxryQ17i
