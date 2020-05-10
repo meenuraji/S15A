@@ -20,9 +20,14 @@ Image
 ![Image](https://github.com/meenuraji/S15A/blob/master/fgimg.png)
 
 Data set of 100 foreground masks
-Tried using 3Dpaint and GIMP for creating masks of foreground images Image
+Tried using 3Dpaint and GIMP for creating masks of foreground images 
+
+Image
+
+![Image](https://github.com/meenuraji/S15A/blob/master/mask.png)
 
 Data set of 300k overlay images of fg on bg
+
 https://drive.google.com/open?id=1c8tO4rYzJtpDFUu5bJ0XBE9uvtl6ZWzH
 
 Image
