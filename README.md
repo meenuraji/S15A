@@ -2,11 +2,11 @@
 
 
 Data set of 100 backgroung images of streets and roads
-https://drive.google.com/open?id=1nc1Yi_p7G7qDY8Gsl42keVgg6t-AQyGh
+https://drive.google.com/open?id=1r6nffKopmf7CpLJUCiQG4jMNDxryQ17i
 Background images were downloaded and resized to 224* 224 uing GIMP Image
 
 Data set of 100 foreground images of cars
-https://drive.google.com/open?id=1WFGmx-W2OBwhcEuqEANuUtc5JnRvtKA9
+https://drive.google.com/open?id=1n82xIWQGfcnz4DnYbkIjgwbW4l_kbL1x
 car images were downloaded, backgrounds were deleted uing 3Dpaint and car images with tranparent background were created. *Regreted this step in later stages of creating depth images- as it created blur margins
 
 Image
