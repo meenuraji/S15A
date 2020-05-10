@@ -17,7 +17,7 @@ car images were downloaded, backgrounds were deleted uing 3Dpaint and car images
 
 Image
 
-![Image]()
+![Image](https://github.com/meenuraji/S15A/blob/master/fgimg.png)
 
 Data set of 100 foreground masks
 Tried using 3Dpaint and GIMP for creating masks of foreground images Image
