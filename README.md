@@ -1,6 +1,6 @@
 # S15A
 
-Data set of 100 backgroung images of streets and roads
+Data set of 100 background images of streets and roads
 
 https://drive.google.com/open?id=1r6nffKopmf7CpLJUCiQG4jMNDxryQ17i
 
@@ -12,7 +12,7 @@ Image
 
 Data set of 100 foreground images of cars
 https://drive.google.com/open?id=1n82xIWQGfcnz4DnYbkIjgwbW4l_kbL1x
-car images were downloaded, backgrounds were deleted uing 3Dpaint and car images with tranparent background were created. *Regreted this step in later stages of creating depth images- as it created blur margins
+car images were downloaded, backgrounds were deleted uing 3Dpaint and car images with transparent background were created. *Regreted this step in later stages of creating depth images- as it created blur margins
 
 Image
 
@@ -52,7 +52,7 @@ Depth predictions were not prominent. Tried other options for better predictions
 
 (https://github.com/nianticlabs/monodepth2) and foundout better depth predictions than nyu-h5. My intution for poor depth prediction of 
 
-few fg images is (*As menctioned erlier) becaue of poor selection of foregroung images i.e with some what blur margins
+few fg images is (*As mentioned earlier) because of poor selection of foreground images i.e with some what blur margins
 
 Image
 
