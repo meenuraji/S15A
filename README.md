@@ -49,9 +49,7 @@ https://drive.google.com/open?id=1JUupNIBdN-oZdGwyctPhyzOPpKqO3_86
 Tried the Depth model reference given (https://github.com/ialhashim/DenseDepth/blob/master/DenseDepth.ipynb) and with few modifications able to implement nyu-h5 on the overlay bg-fg images.
 
 Depth predictions were not prominent. Tried other options for better predictions. Tried KITTI ICCV 
-
 (https://github.com/nianticlabs/monodepth2) and foundout better depth predictions than nyu-h5. My intution for poor depth prediction of 
-
 few fg images is (*As mentioned earlier) because of poor selection of foreground images i.e with some what blur margins
 
 Image
